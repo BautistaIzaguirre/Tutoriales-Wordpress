@@ -1,0 +1,11 @@
+//Este es un recurso el tutorial esta en blog.bauticompany.com.ar/?p=42
+//Codigo Necesario
+.zoom
+
+{
+ transition: transform .5s;
+}
+.zoom:hover
+{
+ transform: scale(1.1);
+}
